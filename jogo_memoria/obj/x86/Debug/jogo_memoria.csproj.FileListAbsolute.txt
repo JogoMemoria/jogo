@@ -1,0 +1,9 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\bin\Debug\jogo_memoria.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\bin\Debug\jogo_memoria.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\jogo_memoria.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\jogo_memoria.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\jogo_memoria.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\jogo_memoria.pdb
