@@ -7,3 +7,5 @@ c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\ob
 c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\GenerateResource.write.1.tlog
 c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\jogo_memoria.exe
 c:\users\ifsp\documents\visual studio 2010\Projects\jogo_memoria\jogo_memoria\obj\x86\Debug\jogo_memoria.pdb
+C:\Users\ifsp\Desktop\Jogo\jogo\jogo_memoria\obj\x86\Debug\jogo_memoria.exe
+C:\Users\ifsp\Desktop\Jogo\jogo\jogo_memoria\obj\x86\Debug\jogo_memoria.pdb
