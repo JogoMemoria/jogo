@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
@@ -47,17 +46,7 @@
             this.button17 = new System.Windows.Forms.Button();
             this.button18 = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
-            this.button20 = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(29, 46);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(103, 94);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
@@ -221,21 +210,11 @@
             this.button19.Text = "button1";
             this.button19.UseVisualStyleBackColor = true;
             // 
-            // button20
-            // 
-            this.button20.Location = new System.Drawing.Point(465, 346);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(103, 94);
-            this.button20.TabIndex = 0;
-            this.button20.Text = "button1";
-            this.button20.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(597, 467);
-            this.Controls.Add(this.button20);
             this.Controls.Add(this.button15);
             this.Controls.Add(this.button10);
             this.Controls.Add(this.button5);
@@ -254,7 +233,6 @@
             this.Controls.Add(this.button16);
             this.Controls.Add(this.button11);
             this.Controls.Add(this.button6);
-            this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -263,7 +241,6 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
@@ -282,7 +259,6 @@
         private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Button button18;
         private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Button button20;
     }
 }
 
